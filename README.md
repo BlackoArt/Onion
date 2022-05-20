@@ -111,7 +111,7 @@ Power button: Save progress and shutdown
 Menu + Power: Light sleep
 
 Menu + R2: Save state  
-Menu + L2: Load state
+Menu + L2: Load state  
 Menu + ← or →: Change state
 
 Menu + R: Fast forward  
