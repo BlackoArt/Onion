@@ -112,7 +112,7 @@ Menu + Power: Light sleep
 
 Menu + R2: Save state  
 Menu + L2: Load state  
-Menu + ← or →: Change state
+Menu + ← / →: Change state
 
 Menu + R: Fast forward  
 Menu + L: Rewind (if enabled)
